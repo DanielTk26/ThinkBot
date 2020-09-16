@@ -1,0 +1,22 @@
+.header{
+    background-color:blue;
+    display:flex;
+    justify-content: space-between;
+    position: absolute;
+     left: 613px; 
+     top: 0px;;
+   
+   }
+
+   
+
+
+   .lol{
+    background-color: rgb(159, 180, 180);
+    display:flex;
+    justify-content: space-between;
+    position: absolute;
+     left: 578px; 
+     top: 80px;;
+   
+   }
